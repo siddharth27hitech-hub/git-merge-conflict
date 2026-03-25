@@ -1,3 +1,6 @@
 red
 blue
 green
+frog
+cow
+buffalo
