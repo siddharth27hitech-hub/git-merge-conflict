@@ -3,3 +3,6 @@ blue
 green
 black 
 pink
+frog
+cow
+buffalo
